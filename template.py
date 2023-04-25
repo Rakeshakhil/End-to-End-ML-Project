@@ -15,10 +15,10 @@ while True:
 logging.info(f"Creating project by name: {project_name}")
 
 list_of_files = [
-#for saving the password
+#for saving the password private
     ".github/workflows/.gitkeep",
 #for using the github pipelines CICD
-    ".github/workflows/main.yaml",
+    ".github/workflows/main.yaml", 
    # f"src/{project_name}/__init__.py",
     f"{project_name}/__init__.py",
     f"{project_name}/components/__init__.py",
