@@ -11,4 +11,4 @@ Contributors
 This project was created by Rakesh. Contributions and feedback are welcome from the open-source community.
 
 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the Apache License - see the LICENSE file for details.
