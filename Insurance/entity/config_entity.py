@@ -20,7 +20,7 @@ class TrainingPipelineConfig:
         except Exception  as e:
             raise InsuranceException(e,sys)    
 
-
+#Taking the data from the database(source)(here mongo database)
 class DataIngestionConfig:
     
     def __init__(self,training_pipeline_config:TrainingPipelineConfig):
